@@ -1,6 +1,4 @@
-### hi
-
-I'm hui. 
+### hi I'm hui.
 
 I started writing the codes in 2019, now I write better codes. 
 
