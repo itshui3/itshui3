@@ -2,6 +2,6 @@
 
 I started writing the codes in 2019, now I write better codes. 
 
-My pinned projects include stuff I've worked on with others as well as my own projects. 
+I've worked on projects with others in teams as well as on my own. 
 
-My current goal is to become a better web dev :). 
+My current goal is to become better at building out ideas on the web(and getting better at UI design) :). 
