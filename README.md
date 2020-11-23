@@ -2,6 +2,7 @@
 
 I started writing the codes in 2019, now I write better codes. 
 
-I've worked on projects with others in teams as well as on my own. 
+I like working on cool projects. It's fun to bring ideas to life in a team, but being able to implement on my own is liberating. 
 
-My current goal is to become better at building out ideas on the web(and getting better at UI design) :). 
+My current goals are to work better with others and to feel confident that if I have an idea, I can build it. 
+[and get a sense for UI, because I neglected all those arts & crafts smh]
