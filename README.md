@@ -6,4 +6,4 @@ I like working on cool projects. It's fun to work towards a common goal in a tea
 
 My current goal is to feel confident that if I have an idea, I can build it. (and to find yob)
 
-![fullontryhardmode](https://64.media.tumblr.com/tumblr_lion5iBzlc1qi7neio1_400.png)
+<div align='center'>![fullontryhardmode](https://64.media.tumblr.com/tumblr_lion5iBzlc1qi7neio1_400.png)</div>
