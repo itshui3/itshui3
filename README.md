@@ -4,4 +4,4 @@ I started writing the codes in 2019, now I write better codes.
 
 I like working on cool projects. It's fun to work towards a common goal in a team, while being able to make stuff on my own is liberating. 
 
-My current goals are to work better with others and to feel confident that if I have an idea, I can build it. 
+My current goal is to feel confident that if I have an idea, I can build it. (and to find yob)
