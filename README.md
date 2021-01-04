@@ -1,7 +1,9 @@
 ### hi I'm hui.
+This is where I keep my stuff
 
-I started writing the codes in 2019, now I write better codes. 
+Fyi, I'm blatantly looking for employment, so if you are hiring and stumbled upon this page to determine my level of worthiness.. you are in the right place. 
 
-I like working on cool projects. It's fun to work towards a common goal in a team, while being able to make stuff on my own is liberating. 
+My projects are listed under the pins. 
+The items contain both my side-projects as well as things I've worked on in teams with other devs/data-scientists. 
 
-My current goal is to feel confident that if I have an idea, I can build it. (and to find yob)
+I learned a lot building this stuff, and I'm proud of my work in these projects. Take a look, see what you think. Hire a dev. 
