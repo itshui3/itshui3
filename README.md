@@ -1,9 +1,8 @@
 #### hi I'm hui
 This is where I keep my stuff
 
-My projects are listed under the pins, they consist of my side-projects as well as group work in teams
-
-I learned a lot building this stuff, and I'm proud my work on these projects. Check 'em out!
+My work is listed under the pins<br>
+I learned a lot building this stuff, and I'm proud of my efforts. Check 'em out!
 
 #### mah goals here-on-out: 
 . buy-in on emphasizing quality of focus over spending extra time on work
