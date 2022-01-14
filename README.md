@@ -1,3 +1,3 @@
 #### hi I'm hui
-#### this is some of my stuff
+#### this is where I yeet code contraptions
 #### ehe
