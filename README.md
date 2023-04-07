@@ -1,3 +1,5 @@
 hi I'm hui ehe
 
-this is where I yeet code contraptions
+I like the vidya gaemz, is nais
+
+and this is where I yeet code contraptions
